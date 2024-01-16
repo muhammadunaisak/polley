@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+::before,
+::after {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.active {
+  @apply text-yellow-50 font-semibold transition-all duration-200
+}
