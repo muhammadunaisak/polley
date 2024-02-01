@@ -63,3 +63,7 @@ To deploy this project run
 - Create ,Delete ,update poll
 - Interactive poll graphs
 
+![image](https://github.com/muhammadunaisak/polley/assets/84447232/30b3622c-3f92-401c-869d-b1b17c1d42ba)
+
+
+![image](https://github.com/muhammadunaisak/polley/assets/84447232/55612a97-109c-4f85-af0a-f80f299cb2f7)
